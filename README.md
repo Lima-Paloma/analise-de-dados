@@ -1,2 +1,2 @@
-# data-science-with-R
-Análise de dados usando a linguagem R
+# Análise Exploratória de Dados (AED) - Exploratory Data Analysis (EDA)
+
