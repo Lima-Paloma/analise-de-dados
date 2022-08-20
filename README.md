@@ -1,2 +1,1 @@
-# Análise Exploratória de Dados (AED) - Exploratory Data Analysis (EDA)
-
+# Análise de dados
